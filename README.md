@@ -10,3 +10,5 @@ java -jar CascadeDataStream.jar -i -p -c -s [source 1] -db [host] [database] [us
 CSV file of the form
 
 [item id];[item timestamp];[matched identifier 1], [matched identifier 2], [matched identifier 3], ..., [matched identifier n]
+
+[![DOI](https://zenodo.org/badge/72976948.svg)](https://zenodo.org/badge/latestdoi/72976948)
